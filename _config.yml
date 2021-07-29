@@ -1,36 +1,3 @@
 theme: jekyll-theme-cayman
-# 众所周知，**3D one**教育版是要钱的。。。。。。
-## 那没有序列号但是又想要学习怎么办呢？就让我来告诉你吧。（侵删）
-![](https://img.i3done.com/statics/images/logo/logo.png)
 
-
-## 一.使用旧版的软件
-	
-####    这里推荐一下3D one plus 版。
-###### 优点：方便、电脑配置要求低
-###### 缺点：不能使用导出stl
-```c
-以下给出下载链接：
-   首选链接：https://www.aliyundrive.com/s/f2AJEsYCZaM
-   备用链接1（onedrive）：https://ipkf-my.sharepoint.com/:u:/g/personal/shijiaheng_mail365_xyz/EQyHGegDTb9KmfHJcySAAHAB2uWJHYuL0W5Z3x0aiuU_Ig?e=cZjXbv
-```
-
-   
-   
-##  二.使用虚拟机
-###### 缺点：不方便、电脑配置要求高
-###### 优点：能使用导出stl
-${\color{Red} 注意：电脑配置要求：硬盘剩余空间8G以上，内存要求：至少8G} $
-
-```c
-	下载vmware work station和Windows 7镜像，安装虚拟机。并按照提示安装vmware tools.
-	再在虚拟机中安装最新版3D one。
-重点来了：关闭虚拟机，在左侧右键虚拟机名称，点击快照-新建快照-拍摄快照。
-	只好，就可以愉悦地免费使用3done啦！
-	注意，每当7天试用期结束后，请右键虚拟机，快照-恢复到快照。就可以啦！
-```
-### PS:虚拟机安装教程：
-```cpp
-https://blog.csdn.net/weixin_43465312/article/details/92662519
-```
 
